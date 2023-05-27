@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+    <string name="difficultyEasy">Easy</string>
+    <string name="difficultyMedium">Medium</string>
+    <string name="difficultyHard">Hard</string>
+    <string name="category">Category:</string>
+    <string name="difficulty">Difficulty:</string>
+    <string-array name="category">
+        <item>Animals</item>
+        <item>Books</item>
+        <item>Film</item>
+        <item>Television</item>
+        <item>General Knowledge</item>
+        <item>Geography</item>
+        <item>History</item>
+        <item>Mythology</item>
+        <item>Mathematics</item>
+        <item>Sports</item>
+    </string-array>
+</resources>
